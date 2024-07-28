@@ -6,5 +6,5 @@ This is a simple README file
 
 some added text 
 
-now in new branch
+this line will cause a conflict
 
