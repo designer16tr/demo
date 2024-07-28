@@ -6,4 +6,5 @@ This is a simple README file
 
 some added text 
 
-this line was already modified in branch "very-bad"
+now in new branch
+
